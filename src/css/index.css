@@ -1,0 +1,10 @@
+body{
+    background-color: red;
+    color: white;
+}
+#css{
+    background-image: url(../imgs/pnk1.jpg);
+    width:300px;
+    height:300px;
+    display: inline-block;
+ }
